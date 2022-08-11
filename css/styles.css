@@ -1,0 +1,90 @@
+/****** Tag Selectors ******/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Baloo 2', cursive;
+  /*
+  font-family: 'Caveat', cursive;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-family: 'JetBrains Mono', monospace;;
+*/
+}
+
+ h1 {
+   font-size: 4rem;
+   margin: 0;
+   font-family: 'Caveat', cursive;
+
+ }
+
+ h2 {
+   font-size: 2rem;
+   font-family: 'Edu NSW ACT Foundation', cursive;
+ }
+
+ h3 {
+    font-size: 1rem;
+   font-family: 'JetBrains Mono', monospace;
+ }
+/****** Class Selectors ******/
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #CC9C75;
+
+}
+
+.Developer {
+  text-decoration: underline;
+}
+
+.footer-link {
+  margin: .5rem;
+  font-family: 'Caveat', cursive;
+}
+
+.middle-container {
+  background-color: #A25B5B;
+
+}
+
+.profile {
+  width: 50%;
+  margin: 0 auto 10px auto;
+}
+
+.skydiver {
+  height: 10rem;
+  width:  10rem;
+
+}
+
+.skills {
+
+}
+.skill-row {
+  width: 50%;
+  margin: 0 auto 10px auto;
+}
+
+.top-container {
+  background-color: #809A6F;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.uniquePara {
+  font-family: 'Caveat', cursive;
+}
+/****** ID Selectors ******/
