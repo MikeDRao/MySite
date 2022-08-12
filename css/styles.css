@@ -1,5 +1,12 @@
 /****** Tag Selectors ******/
+a {
+  color: #11999E;
+  text-decoration: none;
+}
 
+a:hover {
+  color: #EAF6F6;
+}
 body {
   margin: 0;
   text-align: center;
@@ -44,7 +51,7 @@ body {
 
 .bottom-container {
   background-color: #CC9C75;
-
+  padding: 10px 0 20px;
 }
 
 .btn {
@@ -74,15 +81,21 @@ body {
   text-decoration: none;
 }
 
+.copyright {
+  font-size: 0.75rem;
+}
+
 .contact-message {
   width: 30%;
   margin: 40px auto 60px;
 }
+
 .Developer {
   text-decoration: underline;
 }
 
 .footer-link {
+  font-size: 1.5rem;
   margin: .5rem;
   font-family: 'Caveat', cursive;
 }
